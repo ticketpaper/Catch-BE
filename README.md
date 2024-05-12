@@ -1,52 +1,79 @@
-# CATCH
-# 지속적인 고객 관리를 위한 시스템
+<p align='center'>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff4500&text=%20%20CATCH%20%20&fontAlign=30&fontSize=30&textBg=true&desc=지속적인%20고객%20관리를%20위한%20시스템%20&descAlign=60&descAlignY=50&fontColor=ffffff"/>
+</p>
+<p align='center'>
+  <a>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+    <a>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+    </a>
+    <a>
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+</a>
 
-# 프로젝트 개요
-## 프로젝트 소개
-CATCH 프로젝트는 CRM마케팅 전략을 기반으로 백화점에서 마케터들이 고객들을 대상으로 관리, 또는 이벤트를 제공 할 수 있는 서비스이다. 고객 정보를 토대로 성별, 나이, 멤버쉽 등 각각의 기준으로 통계 및 그래프를 제공하여 회사가 고객들의 소비 패턴들을 분석하고 마케팅 전략을 계획 할 수 있게 도움을 준다. 뿐만 아니라 마케팅 전략에 맞춰 이벤트를 제공 할 수 있게 회원들에게 이메일을 통한 광고를 전송하거나 멤버쉽 등급에 따라 쿠폰을 발급하는 등의 서비스를 구현해 회사가 고객 관리를 지속적으로 할 수 있게 한다.
+  <a>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+  </a>
 
-## CRM 마케팅
-CRM 마케팅이란, Customer Relationship Management의 약자로 고객 관계 관리라는 뜻이다. 기존 고객과의 관계를 중시하여 ‘고객이 어떻게 하면 더 많이 서비스를 이용하고 비용을 지불 할까?’ 에 대해 고민하는 전략이다. 고객데이터의 세분화를 실시하여 신규고객획득, 우수고객 유지, 고객가치증진, 잠재고객 활성화, 평생고객화와 같은 사이클을 통하여 고객을 적극적으로 관리하고 유도한다. 기존 마케팅이 단발적인 마케팅 전술이라면 CRM은 고객과의 지속적인 관계를 유지하면서 '한 번 고객은 평생고객'이 될수 있는 기회를 만들며, 평생고객화를 통해 고객의 가치를 극대화하는 것이다.
+<br>
+    
+  <a>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  </a>
+    
+<a>
+    <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"/>
+</a>
+<a>
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+</a>
+  <br>
+  <a>
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+  </a>
+<a>
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+</a>
+<a>
+    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</a>
+<br>
 
-## 서비스 타켓 선정 
-이번 프로젝트에서 서비스의 대상을 백화점으로 선정했다. 그 이유는  가장 먼저 많은 고객들을 대상으로 서비스를 제공하고 있는 업계이기 때문이다. 해당 프로젝트는 많은 고객들의 데이터를 분석하고 제공해주기 때문에 많은 이용자 수를 가지고 있는 곳이 필요했다. 뿐만 아니라 백화점은 유통 및 서비스 업계에 속해 있는데 해당 업계는 많은 고객들을 분석하고 이벤트를 기획을 하는 것이 회사매출에 가장 중요한 부분을 차지하고 있기 때문에 대상을 백화점으로 선정했다.
-
-## CRM 마케팅 사례
-<p align="center">
-<img src=".github/Image/마켓 컬리.png" height="40%" width="40%">
-<img src=".github/Image/알리익스프레스.png" height="40%" width="40%">
+<p align='center'>
+   👨‍💻 심재혁, 김지한, 이혜선, 이종표 
 </p>
 
-**마켓컬리**
-  - 마켓컬리에서는 SMS 문자메시지를 통해 CRM을 하고있다. 유사한 성향을 가진 고객 집단을 분류해 맞춤형 할인 쿠폰 등 개인화 된 혜택을 제공하고 있다.
-    
-**알리 익스프레스**
-  - 알리 익스프레스에서는 Email를 통해 CRM을 하고 있다. 특정 기간에만 진행하는 할인 행사를 인기있는 상품들을 위주로 보여줘 관심을 갖게 하여 행사에 참여하게끔 한다.
+# 목차
+- [개요]
+- [요구사항 분석]
+- [📅 WBS]
+- [📈 ERD]
+- [🎬 API 명세 및 테스트 결과서]
+- [아키텍처 설계도]
+- [CI/CD 계획서]
 
 </br>
-</br>
 
-# 개발 환경
-## 공통
-버전 관리 및 협업: GitHub, Git, GitHub Project, Notion
-데이터베이스: MariaDB
-커뮤니케이션: Slack
+# 프로젝트 개요
+CATCH 솔루션은 CRM 마케팅 전략을 기반으로 쇼핑몰에서 마케터들이 고객들을 대상으로 관리, 쿠폰 또는 캠페인을 제공 할 수 있는 서비스입니다.<br>
+고객 정보를 토대로 성별, 나이, 등급 등 각각의 기준으로 통계 및 그래프를 제공하여 회사가 고객을 분석하고 마케팅 전략을 계획 할 수 있게 도움을 줍니다.<br>
+뿐만 아니라 마케팅 전략에 맞춰 이벤트를 제공 할 수 있게 회원들에게 이메일을 통한 광고를 전송하거나 멤버쉽 등급에 따라 쿠폰을 발급하는 등의 서비스를 구현해 회사가 고객 관리를 지속적으로 할 수 있게 합니다.<br>
 
-## 프론트엔드
-개발 환경: Visual Studio Code
-프로그래밍 언어: HTML, CSS, JavaScript, Vue.js
-
-## 백엔드
-개발 환경: IntelliJ IDEA
-프로그래밍 언어: Java 11
-빌드 도구: Gradle
-프레임워크: Spring, Spring Boot
-보안: Spring Security, JSON Web Tokens (JWT)
-
-</br>
 </br>
 
 # 요구사항 분석
+<details>
+  
 ## 사용자(회원)
 |요청사항 명|요구사항 상세 설명|
 |---|:---|
@@ -105,7 +132,7 @@ CRM 마케팅이란, Customer Relationship Management의 약자로 고객 관계
 |**신규 이벤트 생성 및 이벤트 수정**|이벤트 생성 및 삭제 관리를 할 수 있다.|
 
 
-## 상담사
+## CS 담당자
 |요청사항 명|요구사항 상세 설명|
 |---|:---|
 |**1:1 문의에 대한 답변**|회원이 남긴 1 : 1 문의에 대해 답변을 남길 수 있다.|
@@ -121,178 +148,27 @@ CRM 마케팅이란, Customer Relationship Management의 약자로 고객 관계
 |**발급된 쿠폰**|발급된 쿠폰은 수정 및 삭제가 불가능 하다.|
 |**미발급 쿠폰**|미발급된 쿠폰은 수정 및 삭제가 가능하다.|
 
+</details>
 </br>
 
-#  [📅 WBS](https://docs.google.com/spreadsheets/d/19pO974fKGKGOW3XLY8PIu9Kd5hFQFiLN8cf3-CNAI-o/edit?usp=sharing)
+# [📅 WBS](https://docs.google.com/spreadsheets/d/19pO974fKGKGOW3XLY8PIu9Kd5hFQFiLN8cf3-CNAI-o/edit?usp=sharing)
 </br>
 
 # [📈 ERD](https://www.erdcloud.com/d/4hBsL2CcK8LnCFWJL)
 </br>
 
-# [🖥 화면설계서](https://www.figma.com/file/J6p1dopme7dCpIH5zSnxHc/Catch?type=design&node-id=0%3A1&mode=design&t=OH7rpExEUxgtSPbR-1)
+# [🎬 API 명세 및 테스트 결과서](https://documenter.getpostman.com/view/32406846/2sA35LTyRZ)
 </br>
 
-# [🎬API 명세 및 테스트 결과서](https://documenter.getpostman.com/view/32406846/2sA35LTyRZ)
+# 아키텍처 설계도
+<img width="1047" alt="image" src="https://github.com/ticketpaper/Catch-BE/assets/122894395/6a06c996-bfaf-4f04-891e-038a6c8e9d95">
+
 </br>
 
-# ⛏ 아키텍처 설계도
-<img src=".github/Image/Catch-아키텍처.png" height="100%" width="100%">
-</br>
-
-
-# UI/UX 단위 결과서
+# CI/CD 계획서
 
 <details>
-<summary> <h2> 로그인 & 로그아웃 </h3> </summary>
-
-<h3> 고객: 로그인 </h3>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/2be05d62-8230-4f3c-bc67-be698040c72c" height="100%" width="100%">
-</br>
-
-<h3> 고객: 로그아웃 </h3>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/ef05e457-a500-4431-8489-0a14a18e49aa" height="100%" width="100%">
-</br>
-
-</details>
-
-
-<details>
-<summary> <h2> 고객: 문의 게시글 </h3> </summary>
-
-<h3> 고객: 마이페이지 → 나의 게시글 보기 </h3>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/84c1298f-3d77-4b10-99a4-224c32c5fad3" height="100%" width="100%">
-</br>
-
-<h3> 고객: 문의글 작성하기 </h3>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/6e5d7d10-514a-4a93-95b1-d7ca532f8015" height="100%" width="100%">
-</br>
-
-<h3> 고객: 문의글 수정하기 </h3>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/44cec826-9ad5-4579-b8b5-f8a814677c04" height="100%" width="100%">
-</br>
-
-<h3> 고객: 문의글 삭제하기 </h3>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/f06d9790-3231-47f7-a60a-7208ffdbdd86" height="100%" width="100%">
-</br>
-
-</details>
-
-
-
-<details>
-<summary> <h2> 관리자: 문의게시글 </h3> </summary>
-
-<h3> 관리자: 대시보드(메인화면) </h3>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/1578f984-b3ae-4f70-b7c1-7d9671c53f78" height="100%" width="100%">
-</br>
-
-<h3> 관리자: 문의게시글 리스트(검색) </h3>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/63e91407-1932-40ab-a79f-c7d4de7f60b3" height="100%" width="100%">
-</br>
-
-<h3> 관리자: 게시글 상세보기 및 답변 달기 </h3>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/0450ac7d-be9b-4410-a58c-6591c03a8ff3" height="100%" width="100%">
-</br>
-
-<h3> 관리자: 게시글 답변 수정 </h3>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/cedd0d4b-27d6-4ed4-ae10-351c12d0c2a2" height="100%" width="100%">
-</br>
-
-<h3> 관리자: 게시글 답변 삭제 </h3>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/ab27b64b-33fc-4b06-81e4-71d90157972a" height="100%" width="100%">
-</br>
-
-</details>
-
-<details>
-<summary> <h2> 쿠폰 </h3> </summary>
-
-<h3> 관리자: 쿠폰리스트 및 검색 </h3>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/75c840d5-aac0-4482-a728-4a0d2158ef39" height="100%" width="100%">
-</br>
-
-<h3> 관리자: 쿠폰생성 </h3>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/7c767138-d67c-4fc2-9a41-e043dc0a1769" height="100%" width="100%">
-</br>
-
-<h3> 고객: 쿠폰수령 </h3>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/4ff26c38-cee9-433f-98b7-383bde22e4b7" height="100%" width="100%">
-</br>
-
-<h3> 고객: 수령 가능 쿠폰 및 내 쿠폰 보기 </h3>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/a51ddba4-7726-4330-acff-a8e200815574" height="100%" width="100%">
-</br>
-
-<h3> 쿠폰 발행 및 알람 </h3>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/3471778f-dfda-492c-9d1a-aa5d15584099" height="100%" width="100%">
-</br>
-
-</details>
-
-
-<details>
-<summary> <h2> 관리자: 고객리스트 </h3> </summary>
-
-<h3> 관리자: 고객리스트 검색 </h3>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/1d8f70d6-def3-44a9-8605-5a13d3394f74" height="100%" width="100%">
-</br>
-
-<h3> 관리자: 고객 상세보기, 메모, 활성화, 비활성화 </h3>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/45dbf2c9-46cc-4b5f-992d-3cc60ba248be" height="100%" width="100%">
-</br>
-
-</details>
-
-<details>
-<summary> <h2> 관리자: 회사 계정 관리 </h3> </summary>
-
-<h3> 관리자: 회사 계정 검색 </h3>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/ea86d4c3-a85a-44bd-b46b-2b39162079f9" height="100%" width="100%">
-</br>
-
-<h3> 관리자: 회사 계정 생성 </h3>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/09f58a17-c684-4751-86e8-a816a77c018f" height="100%" width="100%">
-</br>
-
-<h3> 관리자: 회사 계정 수정, 계정 활성화, 비활성화 </h3>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/58584e76-5598-4fcd-873e-adbe4d3ba328" height="100%" width="100%">
-</br>
-
-</details>
-
-
-<details>
-<summary> <h2> 관리자: 이벤트 </h3> </summary>
-
-<h3> 관리자: 이벤트 생성 </h3>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/788c2bd1-c6c5-45bf-b8eb-234d5c7c893f" height="100%" width="100%">
-</br>
-
-</details>
-
-
-<details>
-<summary> <h2> 접근 권한 및 페이지 없음 (404, 403) </h3> </summary>
-
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/452f7462-eb5b-4c8b-a06e-90e0c5271089" height="100%" width="100%">
-</br>
-
-</details>
-
-
-<details>
-<summary> <h2> 관리자: 리스트 화면 페이징 처리 </h3> </summary>
-<img src="https://github.com/Catch-team/Catch-BE/assets/78871184/088ec497-6511-47a9-b90b-fe4a7115a51b" height="100%" width="100%">
-</br>
-
-</details>
-
-</br>
-
-
-
-<h1> 📋CI/CD 계획서 </h1>
-
+  
 ## 목표 및 범위:
 - 모놀리식 CRM 서비스와 핵사고날 아키텍처로 설계된 event 모듈 및 SpringBatch로 구성된 배치서비스 들을 미니서비스아키텍처로 구성하고
   이를 안정적으로 배포해 쿠버네티스 컨테이너 오케이스트레이션을 통해 대규모 데이터 및 트래픽에 대비할 수 있도록 합니다.
@@ -348,12 +224,13 @@ CRM 마케팅이란, Customer Relationship Management의 약자로 고객 관계
 - CI/CD 계획서 
     - 문서화: GitHub Readme 작성
 
-
+</details>
 </br>
 
-<details>
-<summary> <h1> 배포 결과 테스트 </h1> </summary>
+# 배포 결과 테스트
 
+<details>
+  
 ## S3 버킷 생성
 
 <img src="https://github.com/Catch-team/Catch-BE/assets/78871184/fa1de006-2083-48a1-ba58-e41f68ca5e5d" height="80%" width="80%">
